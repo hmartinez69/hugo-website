@@ -1,6 +1,6 @@
-title = "Notre-Dame de Paris"
+title = "Hugo MARTINEZ"
 baseURL = "/hugo-website"
-languageCode = "en-us"
+languageCode = "fr-fr"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
 
